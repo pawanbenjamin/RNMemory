@@ -1,4 +1,7 @@
+I changed the readme
+
 # RNMemory
+
 A two-player memory game created with React Native and Pusher.
 
 Full tutorial is available at: [https://pusher.com/tutorials/memory-game-react-native](https://pusher.com/tutorials/memory-game-react-native)
@@ -12,7 +15,6 @@ Full tutorial is available at: [https://pusher.com/tutorials/memory-game-react-n
 - Expo [Android](https://play.google.com/store/apps/details?id=host.exp.exponent&hl=en) or [iOS client app](https://itunes.apple.com/us/app/expo-client/id982107779?mt=8)
 - [Pusher app instance](https://pusher.com)
 - [Ngrok account](https://ngrok.com/)
-
 
 ## Getting Started
 
@@ -58,7 +60,6 @@ APP_CLUSTER=YOUR_PUSHER_APP_CLUSTER
 PORT=3000
 ```
 
-
 6. Run the server:
 
 ```
@@ -68,7 +69,6 @@ node server.js
 7. [Download ngrok executable file](https://dashboard.ngrok.com/get-started).
 
 8. Expose server using ngrok:
-
 
 ```
 ./ngrok authtoken YOUR_NGROK_AUTH_TOKEN
@@ -83,11 +83,10 @@ node server.js
 expo start
 ```
 
-
 ## Built With
 
-* [React Native](http://facebook.github.io/react-native/)
-* [Pusher Channels](https://pusher.com)
+- [React Native](http://facebook.github.io/react-native/)
+- [Pusher Channels](https://pusher.com)
 
 ## Donation
 
